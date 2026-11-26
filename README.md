@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel Micklausch 👋
 
-### Full-stack web developer · Python · Django · REST APIs
+### Full-stack web developer · Python · Django · JavaScript · Angular
 
 I studied business informatics and then trained as a frontend and backend developer<br>
 at the Developer Akademie.
