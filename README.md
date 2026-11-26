@@ -4,8 +4,8 @@
 
 ### Web developer · Python · Django · REST APIs
 
-I build REST APIs with Django and Django REST Framework.<br>
-Before that, I completed the frontend track with JavaScript, TypeScript and Angular.
+I studied business informatics and then trained as a frontend and backend developer<br>
+at the Developer Akademie.
 
 </div>
 
@@ -13,7 +13,6 @@ Before that, I completed the frontend track with JavaScript, TypeScript and Angu
 
 ## About me
 
-- Completed the frontend and backend tracks of the Developer Akademie training program
 - Backend focus: Django REST Framework, authentication, background jobs, Docker
 - Frontend experience: responsive layouts, Angular, TypeScript, vanilla JavaScript
 
