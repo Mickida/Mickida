@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Daniel Micklausch 👋
+# Hi, I'm Daniel M. 👋
 
 ### Full-stack web developer · Python · Django · JavaScript · Angular
 
